@@ -5,6 +5,10 @@
 }
 #page1{
     display: block;
+
+background-color: rgb(227, 216, 187);
+
+
 }
 #page2{
     display: none;
@@ -18,14 +22,9 @@
     font-size: 28px; /* find en passende størrelse*/ 
 }
 
-
-
 #Undertitel {
 
 color: rgb(118, 118, 173);
-
-
-
 }
 
 
